@@ -60,4 +60,6 @@ function clearRepeatedCitis() {
 }
 
 
+console.log("hola")
+
 
