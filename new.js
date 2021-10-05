@@ -12,3 +12,11 @@ function chequeo(nro){
 
 
 module.exports.pepe = chequeo
+
+console.log("hola")
+
+//probando
+
+let numeros = [1,5,6]
+
+let numeros2 = [1,5,6]
