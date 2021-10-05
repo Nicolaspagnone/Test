@@ -77,3 +77,6 @@ function clearRepeatedCitis() {
     return console.log(newCitiesList)
     
 }
+
+
+//probando
