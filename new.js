@@ -12,3 +12,5 @@ function chequeo(nro){
 
 
 module.exports.pepe = chequeo
+
+console.log("hola")
