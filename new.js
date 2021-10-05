@@ -16,3 +16,5 @@ module.exports.pepe = chequeo
 console.log("hola")
 
 //probando
+
+let numeros = [1,5,6]
